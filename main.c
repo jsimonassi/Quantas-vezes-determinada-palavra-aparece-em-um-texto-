@@ -106,7 +106,7 @@ int main()
 {
     TLSE *inicio = NULL;
     char modelo[] = "Jesus";
-    printf("\nInforme a palavra: ");
+    //printf("\nInforme a palavra: ");
     //scanf("%s", modelo);
     //getchar();
     printf("%s aparece %d vezes!", modelo, contador(inicio, modelo));
